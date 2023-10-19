@@ -8,4 +8,4 @@ about this project dont hesitate to ask me from platforms like linkedin , mail e
 
 Resolution is not good because converting high resolution video to the gif :(
 
-![Alt Text](app.gif)
+![Alt Text](appVideo-2.gif)
